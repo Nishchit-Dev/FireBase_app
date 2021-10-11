@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "823019996740",
+    "project_id": "test-firebase-1-161f2",
+    "storage_bucket": "test-firebase-1-161f2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:823019996740:android:a5bbd85063c6113d27de11",
+        "android_client_info": {
+          "package_name": "com.lazydev.realtime_test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "823019996740-n2fdbt01iuv5gpmottpjh6a64io9kmo7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-g2nqbp4P2lNEW-DsqF03bsOD2K0aU_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "823019996740-n2fdbt01iuv5gpmottpjh6a64io9kmo7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
